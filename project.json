@@ -1,0 +1,10 @@
+
+{
+  "name": "twitter2slack",
+  "description": "twitter to slack",
+  "memory": 128,
+  "timeout": 5,
+  "role": "",
+  "defaultEnvironment": "dev",
+  "environment": {}
+}
