@@ -1,0 +1,3 @@
+[submodule "functions/timeline"]
+	path = functions/timeline
+	url = https://github.com/swfz/timeline2slack.git
