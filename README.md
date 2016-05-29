@@ -11,6 +11,7 @@ set `role` to ARN
 ## update submodule
 
 ```
+git submodule init
 git submodule update
 ```
 
